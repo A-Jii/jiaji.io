@@ -8,12 +8,12 @@ baseurl: '/jekyll-uno'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Jiaji Li'
+  email: jiajil@cs.cmu.edu
+  twitter_username: 
+  facebook_username: 
+  github_username:  
+  linkedin_username:  
 
 defaults:
   -
